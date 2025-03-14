@@ -1,0 +1,1 @@
+In this project, I analyzed the housing system in Boston. Using programming skills, data cleaning and visualization, it is possible to gain some insights into the factors that influence the average price of homes and the data regarding the criteria that are raised when purchasing a home. The project is not yet complete, but it is already possible to analyze several points.
